@@ -1,0 +1,8 @@
+{
+  "name": "site",
+  "author": "Artem Malyshev",
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
