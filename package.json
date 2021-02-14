@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "highlight.js": "^10.6.0",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "reveal.js": "^4.1.0"
   }
 }
