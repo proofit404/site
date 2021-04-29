@@ -2,15 +2,16 @@
   "name": "site",
   "author": "Artem Malyshev",
   "private": true,
-  "devDependencies": {
-    "parcel-bundler": "^1.12.5",
-    "pug": "^3.0.2"
-  },
   "dependencies": {
-    "bootstrap": "^4.6.0",
-    "highlight.js": "^10.7.2",
-    "jquery": "^3.6.0",
-    "popper.js": "^1.16.1",
-    "reveal.js": "^4.1.0"
+    "bootstrap": "4.6.0",
+    "highlight.js": "10.7.2",
+    "jquery": "3.6.0",
+    "popper.js": "1.16.1",
+    "reveal.js": "4.1.0"
+  }
+  "devDependencies": {
+    "parcel-bundler": "1.12.5",
+    "pug": "3.0.2",
+    "pug-lint": "2.6.0"
   }
 }
