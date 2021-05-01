@@ -5,4 +5,7 @@ set -o nounset
 set -o pipefail
 
 echo "==> Running pug-lint…"
-npx pug-lint src
+npx pug-lint src/
+
+echo "==> Running eslint…"
+npx eslint src/
