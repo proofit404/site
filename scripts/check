@@ -9,3 +9,6 @@ npx pug-lint src/
 
 echo "==> Running eslint…"
 npx eslint src/
+
+echo "==> Running stylelint…"
+npx stylelint src/**/*.css
