@@ -3,7 +3,7 @@
   "author": "Artem Malyshev",
   "private": true,
   "dependencies": {
-    "bulma": "0.9.2",
+    "bulma": "0.9.3",
     "highlight.js": "11.0.1",
     "reveal.js": "4.1.3"
   },
